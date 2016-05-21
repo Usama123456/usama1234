@@ -1,0 +1,99 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: 18px;
+	font-style: italic;
+	font-variant: small-caps;
+	font-weight: 500;
+	line-height: 26.4px;
+    background-color: gold;
+    border-style: solid black;
+    
+}
+
+    
+    
+
+#size{
+    font-size: 60px;
+    text-align: center;
+   
+    color: brown;
+    
+
+    
+}
+a {
+    color: black;
+    text-decoration: none;
+    
+}
+
+    .list {
+        display: block;
+        width: 140px;
+        float: right;
+        padding: 14px 16px;
+        
+        text-decoration: none;
+    }
+    
+    
+    li a:hover {
+       color: white; 
+    }
+   #ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    background-color: deepskyblue
+}
+
+.1 {
+    color: deepblue;
+    
+}
+.1 hover: {
+    color: black;
+}
+
+ body {
+     background-color: transparent
+ }
+ div {
+     border-style: none
+ }
+#orange {
+    color: darkorange;
+}
+
+#green {
+    color: green;
+}
+
+#blue {
+    color: lightseagreen;       
+ }
+#center {
+    float: center; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
